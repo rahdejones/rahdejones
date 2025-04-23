@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Rahde Jones
 ### ☁️ AWS Cloud Engineer | DevOps Enthusiast | Infrastructure Architect
 
 **Building resilient and scalable cloud solutions** with a passion for automating everything in sight.  
@@ -29,11 +29,10 @@ Specializing in AWS services, cloud infrastructure design, and implementing DevO
 - Serverless Architectures (Lambda, API Gateway, DynamoDB)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR-LINKEDIN])
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@[YOUR-MEDIUM])
-📧 [your.email@domain.com](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahdejones)
+📧 [your.email@domain.com](mailto:jonesrahde7@gmail.com)
 
 ## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dark)](https://github.com/[YOUR-GITHUB-USERNAME])
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dark)](https://github.com/rahdejones)
 
 > *"There's no such thing as 'over-engineering' - just varying levels of cloud redundancy"* ☁️

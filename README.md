@@ -28,6 +28,6 @@ Specializing in AWS services, cloud infrastructure design, and implementing DevO
 - Serverless Architectures (Lambda, API Gateway, DynamoDB)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahde-j-07a931120)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahdejones)
 
 > *"There's no such thing as 'over-engineering' - just varying levels of cloud redundancy"* ☁️

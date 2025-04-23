@@ -30,7 +30,6 @@ Specializing in AWS services, cloud infrastructure design, and implementing DevO
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahdejones)
-[your.email@domain.com](mailto:jonesrahde7@gmail.com)
 
 ## 📈 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dark)](https://github.com/rahdejones)
